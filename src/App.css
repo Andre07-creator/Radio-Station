@@ -70,7 +70,7 @@
 .form{
   margin-top: 70px;
   width: 100%;
-  margin-left: 150px;
+  margin-left: 50px;
  flex-wrap: wrap;
  justify-content: space-around;
 }
@@ -83,7 +83,7 @@ border-radius: 8px;
 .items-form input[type=submit]{
   width: 50%;
   height: 40px;
-margin-left: 150px;
+margin-left: 190px;
 background-color: #ffdab9;
 font-size: 17px;
 color: black;
@@ -94,5 +94,14 @@ border-radius: 8px;
   text-align: center;
   color: black;
   font-size: large;
+}
+.content{
+  width: 50%;
+  padding: 10px 50px;
+}
+.content a{
+  text-decoration: #3156c4;
+  font-size: 17px;
+  font-weight: bold;
 }
 

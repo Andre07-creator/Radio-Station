@@ -104,4 +104,9 @@ border-radius: 8px;
   font-size: 17px;
   font-weight: bold;
 }
-
+.my-name{
+  text-align: center;
+  width: 100%;
+  padding: 5px 0px 10px;
+  font-size: x-small;
+}
